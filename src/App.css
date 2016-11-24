@@ -1,0 +1,29 @@
+.App {
+  background-color: #171C13;
+  height: fill;
+  display: flex-center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container {
+	width: fill;
+	height: fill;
+	padding-top: 13%;
+}
+
+/*.stevo_logo {
+	width: 10%;
+}
+*/
+.stevo_banner {
+	width: 50%;
+}
+
+/*.bevs_button {
+	padding-top: 5%;
+}*/
+
+.stevo_message_button {
+	padding-top: 3%;
+}
